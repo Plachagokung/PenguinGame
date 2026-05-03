@@ -2,10 +2,10 @@
 3D casual game made with  unity 
 
 ## Gameplay
-- Avoid obstacles
 - Catch fish before time run out
+- Avoid enemies
 
 ## Desing Pattern
-- Penguin State machine (idle/walk/jump/stun)
+- Penguin State machine (idle/walk/jump/swim/dead)
 - Fish Spawn
 - Observer Pattern
