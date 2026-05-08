@@ -8,4 +8,5 @@
 ## Desing Pattern
 - Penguin State machine (idle/walk/jump/swim/dead)
 - Fish Spawn
+- Shark AI
 - Observer Pattern
